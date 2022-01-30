@@ -111,3 +111,9 @@ dist
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+# Working spreadsheets
+2021.ods
+2022.ods
+2023.ods
+2024.ods
