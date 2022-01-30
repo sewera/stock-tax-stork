@@ -2,8 +2,8 @@
 
 ![Project Banner](./project_banner.jpg)
 
-Aplikacja przeglądarkowa mająca na celu pomoc w obliczaniu podatków giełdowych
-(PIT-38).
+Arkusz ODS, a w przyszłości aplikacja przeglądarkowa mająca na celu pomoc w
+obliczaniu podatków giełdowych (PIT-38).
 
 Oparta jest na [artykule o rozliczaniu podatku z giełdy na inwestomat.eu](https://inwestomat.eu/jak-rozliczyc-podatek-z-gieldy/).
 
