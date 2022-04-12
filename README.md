@@ -3,6 +3,7 @@
 ![Project Banner](./project_banner.jpg)
 
 Arkusz ODS mający na celu pomoc w obliczaniu podatków giełdowych (PIT-38).
+Stan na kwiecień 2022.
 
 Wystarczy skopiować `sts.ods` jako plik z rokiem za który się rozliczamy, np.
 `2021.ods` i wprowadzić tam swoje dane.
