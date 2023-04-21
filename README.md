@@ -20,6 +20,15 @@ Przydatne linki:
 Aplikacja nie ma żadnych zapewnień poprawności z prawem podatkowym. Korzystanie
 z niej nie zapewnia poprawności obliczonych podatków.
 
+## mBank eMakler
+
+W celu pobrania wykazu dywidend za poprzedni rok w serwisie eMakler należy:
+
+- Przejść do zakładki **Operacje**
+- Wybrać w sekcji filtrów (po lewej stronie) Typ Operacji: **Historia finansowa**
+- Okres ustawić na **Poprzedni rok**
+- Kliknąć przycisk **Pobierz listę**
+
 ---
 
 Licencja: AGPL-3.0  
